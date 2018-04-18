@@ -3,8 +3,8 @@
   "discord_id" : "210512783094185995",
   "discord_channel_id" : "429401743294464002",
   "discord_webhook_url" : "https://discordapp.com/api/webhooks/436139711929778178/u0qvQP0geQPFh9TWrkZNZTZ7CIDhnmNJb2JXFWb0pSFeD-C4tIo_kh_aCLU42H6zYDQt",
-  "groupme_user_id" : "",
-  "groupme_token" : "",
+  "groupme_user_id" : "37042112",
+  "groupme_token" : "7jOpAaHhSrXmTbGpQDYpKzgFqNhTToCoC9RAA3SR",
   "groupme_bot_id" : "b1d2cb228bd17e6a2333948d95",
   "allow_all" : "true"
 }
