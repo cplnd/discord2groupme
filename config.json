@@ -1,10 +1,10 @@
 {
-  "discord_token" : "",
-  "discord_id" : "",
-  "discord_channel_id" : "",
-  "discord_webhook_url" : "",
+  "discord_token" : "NDM2MTQ4MzA1NDg4MTE3NzYw.DbjSSw.C4VQZszCPT9pW5bVyQcWUu673Oc",
+  "discord_id" : "210512783094185995",
+  "discord_channel_id" : "429401743294464002",
+  "discord_webhook_url" : "https://discordapp.com/api/webhooks/436139711929778178/u0qvQP0geQPFh9TWrkZNZTZ7CIDhnmNJb2JXFWb0pSFeD-C4tIo_kh_aCLU42H6zYDQt",
   "groupme_user_id" : "",
   "groupme_token" : "",
-  "groupme_bot_id" : "",
-  "allow_all" : "false"
+  "groupme_bot_id" : "b1d2cb228bd17e6a2333948d95",
+  "allow_all" : "true"
 }
